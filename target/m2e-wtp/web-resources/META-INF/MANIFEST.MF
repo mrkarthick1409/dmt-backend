@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: AppFuse Spring MVC Application
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.dmt
+Build-Jdk: 1.7.0_79
+Built-By: Karthick
+Created-By: Maven Integration for Eclipse
+
