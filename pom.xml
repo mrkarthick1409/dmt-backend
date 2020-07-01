@@ -2560,7 +2560,7 @@
       <dependency>
         <groupId>mysql</groupId>
         <artifactId>mysql-connector-java</artifactId>
-        <version>5.1.34</version>
+        <version>8.0.16</version>
       </dependency>
       <dependency>
         <groupId>nz.net.ultraq.thymeleaf</groupId>
@@ -3983,7 +3983,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.27</version>
+      <version>8.0.16</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -4382,7 +4382,7 @@
             <dependency>
               <groupId>mysql</groupId>
               <artifactId>mysql-connector-java</artifactId>
-              <version>5.1.27</version>
+              <version>8.0.16</version>
               <scope>compile</scope>
             </dependency>
           </dependencies>
@@ -4420,7 +4420,7 @@
             <dependency>
               <groupId>mysql</groupId>
               <artifactId>mysql-connector-java</artifactId>
-              <version>5.1.27</version>
+              <version>8.0.16</version>
               <scope>compile</scope>
             </dependency>
           </dependencies>
@@ -5044,7 +5044,7 @@
           <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.27</version>
+            <version>8.0.16</version>
             <scope>compile</scope>
           </dependency>
         </dependencies>
@@ -5188,7 +5188,7 @@
           <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.27</version>
+            <version>8.0.16</version>
             <scope>compile</scope>
           </dependency>
         </dependencies>
@@ -5246,7 +5246,7 @@
           <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.27</version>
+            <version>8.0.16</version>
             <scope>compile</scope>
           </dependency>
         </dependencies>
