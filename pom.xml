@@ -2885,7 +2885,7 @@
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-webapp</artifactId>
-        <version>9.2.1.v20140609</version>
+        <version>9.4.34.v20201102</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty.websocket</groupId>
