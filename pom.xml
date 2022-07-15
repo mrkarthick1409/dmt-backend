@@ -638,7 +638,7 @@
       <dependency>
         <groupId>org.apache.tapestry</groupId>
         <artifactId>tapestry-core</artifactId>
-        <version>5.4-beta-22</version>
+        <version>5.8.2</version>
         <exclusions>
           <exclusion>
             <artifactId>slf4j-log4j12</artifactId>
